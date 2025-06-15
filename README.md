@@ -95,7 +95,7 @@ sudo /opt/onos/bin/onos-service start
 
 # Access ONOS CLI
 /opt/onos/bin/onos -l onos
-# Password: rocks
+# Password: rocks or karaf
 ```
 
 ### ✅ Activate ONOS Applications
