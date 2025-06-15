@@ -131,8 +131,6 @@ http://<ONOS-IP>:8181/onos/ui
 * **Username:** `onos`
 * **Password:** `rocks`
 
-Berikut adalah bagian **lengkap dan final** untuk fitur ACL di README kamu, dalam format profesional dan terstruktur:
-
 ---
 
 ## 🔥 \[Optional] Enable ACL Firewall in ONOS
